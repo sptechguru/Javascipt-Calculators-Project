@@ -1,0 +1,101 @@
+.form-style
+{
+	background-image: url(../images/7.jpg);
+	background-size: cover;
+	margin: 0px;
+	padding: 0px;
+}
+.sp
+{
+	background-image: url(../images/3.jpg);
+	background-size: cover;
+
+
+
+}
+
+#clear
+{
+	width: 100%;
+	background-color: green;
+	color: #fff;
+	font-family: arialnarrow;
+}
+
+#set
+{
+	width: 99%;
+	background-color: #fff;
+	color: #000;
+}
+
+.form-style
+{
+	width: 350px;
+	height: 500px;
+	background-color;
+	margin: auto;
+	border :5px solid #fff;
+	border-radius: 50px;
+	box-shadow: 5px 5px #000;
+
+}
+.in
+{
+	width: 114px;
+	background-color: #ccc !important;
+	color: green !important;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+input
+{
+	width: 114px;
+	background-color: #ccc;
+	color: #fff;
+	font-size: 40px;
+	box-shadow: 5px 5px 10px #fff;
+	border-radius: 50px;
+	border: 0px;
+}
+
+input:hover
+{
+	width: 114px;
+	background-color: red;
+	color: #fff;
+	font-size: 40px;
+	box-shadow: 5px 5px 10px #000;
+	border-radius: 100px;
+	border: 0px;
+	transition: 0.5 ease;
+}
+
+input:active
+{
+	width: 114px;
+	background-color: cyan;
+	color: #fff;
+	font-size: 40px;
+	box-shadow: 5px 5px 10px #000;
+	border-radius: 100px;
+	border: 0px;
+}
+
+#answerstyle
+{
+	width:100%;
+	color: #fff;
+}
+
+h2
+{
+	color: #fff;
+	text-shadow: 3px 2px red;
+	text-align: center;
+	font-size: 40px;
+	font-family: arialnarrow;
+	background-color: gold;
+	border-radius: 50%;
+}
